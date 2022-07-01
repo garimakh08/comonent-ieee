@@ -1,0 +1,68 @@
+
+#reel {
+    /* position: absolute; */
+width: 469px;
+height: 25px;
+left: 835px;
+top: 2908px;
+float: right;
+text-align:left;
+justify-content: flex-end;
+font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 196x;
+line-height: 32px;
+
+color: #EF6D58;}
+
+.text {
+  display: inline;
+  text-align: left;    
+  width: 290%;
+  height: 300%;
+  left: 835px;
+  top: 2957px;
+  justify-content: center;
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 150%;
+  line-height: 240%;
+  
+  color: #000000;
+    }
+
+.texxt {
+ 
+text-align: left;
+width: 200%;
+height: 250%;
+left: 835px;
+top: 3084px;
+justify-content: center;
+font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 34px;
+
+color: rgba(57, 20, 0, 0.64);
+}
+  
+
+/* #video { */
+/* position: absolute; */
+/* display: inline-flex;
+justify-items: center;
+width: 500px;
+height: 500px;
+left: 900px;
+top: 3000px;
+align-items: center;
+background: #5C2000;
+mix-blend-mode: normal;
+opacity: 0.32;
+border-radius: 6px;
+    
+} */
